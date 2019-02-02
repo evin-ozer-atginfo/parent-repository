@@ -1,0 +1,3 @@
+[submodule "child-repository"]
+	path = child-repository
+	url = https://github.com/evin-ozer-atginfo/child-repository.git
