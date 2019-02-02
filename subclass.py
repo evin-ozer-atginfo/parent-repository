@@ -12,7 +12,7 @@ from base import Base
 class Subclass(Base):
 	def __init__(self, name):
 		super().__init__()
-		self.name = name + 'Meow'
+		self.name = name + 'Meows'
 
 if __name__ == '__main__':
 	s = Subclass('Me')
