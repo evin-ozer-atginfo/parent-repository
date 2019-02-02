@@ -1,3 +1,6 @@
 [submodule "child-repository"]
 	path = child-repository
 	url = https://github.com/evin-ozer-atginfo/child-repository.git
+[submodule "base-repository"]
+	path = base-repository
+	url = https://github.com/evin-ozer-atginfo/base-repository.git

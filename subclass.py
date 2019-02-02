@@ -3,7 +3,7 @@ import os
 import sys
 __real_path = os.path.split(os.path.realpath(__file__))[0]
 lib_paths = [
-    os.path.abspath(os.path.join(__real_path, './child-repository'))
+    os.path.abspath(os.path.join(__real_path, './base-repository'))
 ]
 sys.path += lib_paths
 
